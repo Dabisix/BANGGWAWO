@@ -1,6 +1,6 @@
 # Banggwawo 시연 시나리오
 
-![image](/uploads/a36532b14926d341c3a1bd221f2b7254/image.png)
+![image](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/a36532b14926d341c3a1bd221f2b7254/image.png)
 
 
 ## 목차
@@ -17,7 +17,8 @@
 
 ## 1. 온보딩 페이지
 
-![1_온보딩_페이지](/uploads/90cc2aba91a8336e1f7c2b20ef01acb8/1_온보딩_페이지.gif)    
+![1_온보딩_페이지](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/90cc2aba91a8336e1f7c2b20ef01acb8/1_%EC%98%A8%EB%B3%B4%EB%94%A9_%ED%8E%98%EC%9D%B4%EC%A7%80.gif) 
+
 [1.1 온보딩 페이지]           
 
 방과워 서비스를 소개하는 페이지입니다. [지금 시작하기] 또는 [로그인]을 통해 로그인 및 회원가입을 할 수 있습니다.
@@ -34,14 +35,15 @@
 
 비회원의 경우, kakao에서 제공한 사용자의 연령대에 따라 학생 또는 봉사자 회원가입 창으로 이동합니다.
 
-![2_학생_로그인](/uploads/be0a9684b6220325478467ab0de2d60e/2_학생_로그인.gif)       
+![2_학생_로그인](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/be0a9684b6220325478467ab0de2d60e/2_%ED%95%99%EC%83%9D_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)       
+
 [2.1 학생 로그인]        
 
 학생의 경우, 학부모의 이메일을 추가 입력하여 회원가입을 합니다.
 
 기입된 메일로 학부모의 임시 비밀번호가 전송됩니다.
 
-![2_봉사자_로그인](/uploads/0b63df22c9d4c6181fca9cbbaa5c1166/2_봉사자_로그인.gif)                       
+![2_봉사자_로그인](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/0b63df22c9d4c6181fca9cbbaa5c1166/2_%EB%B4%89%EC%82%AC%EC%9E%90_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)                       
 [2.2 봉사자 로그인]              
 
 봉사자의 경우, 자기소개를 추가 입력하여 회원가입을 합니다.
@@ -50,7 +52,7 @@
 
 ### 학부모
 
-![2_학부모_로그인](/uploads/81e8ace8173abca2c27a2f306eeb48cf/2_학부모_로그인.gif)
+![2_학부모_로그인](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/81e8ace8173abca2c27a2f306eeb48cf/2_%ED%95%99%EB%B6%80%EB%AA%A8_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
 
 [2.3 학부모 로그인]
 
@@ -60,7 +62,7 @@
 
 ## 3. 수업 목록
 
-![3_수업목록](/uploads/05936abb769943409c0d0c0bed400c23/3_수업목록.gif)                         
+![3_수업목록](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/05936abb769943409c0d0c0bed400c23/3_%EC%88%98%EC%97%85%EB%AA%A9%EB%A1%9D.gif)                         
 [3. 수업목록]
 
 방과워 서비스에 등록된 수업 목록이 공개여부와 개설여부에 따라 [공개 수업], [개설된 수업]으로 보여집니다. 수업을 클릭하면 상세 내용을 볼 수 있습니다.
@@ -81,7 +83,7 @@
 
 ## 4. 수업 요청
 
-![4_수업요청_좋아요및글작성](/uploads/12389675e77b4739743bc6b2a0aea25a/4_수업요청_좋아요및글작성.gif)
+![4_수업요청_좋아요및글작성](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/12389675e77b4739743bc6b2a0aea25a/4_%EC%88%98%EC%97%85%EC%9A%94%EC%B2%AD_%EC%A2%8B%EC%95%84%EC%9A%94%EB%B0%8F%EA%B8%80%EC%9E%91%EC%84%B1.gif)
 
 [4. 학생의 수업 요청]
 
@@ -99,7 +101,7 @@
 
 수업이 개설된 후, [수업 시작]을 누르면 세션으로 입장하며 수업에 참여하는 학생들 또한 입장할 수 있습니다. 
 
-![4_수업요청_봉사자](/uploads/49b80c570e0356daf4659f45c0e732dc/4_수업요청_봉사자.gif)		                        			
+![4_수업요청_봉사자](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/49b80c570e0356daf4659f45c0e732dc/4_%EC%88%98%EC%97%85%EC%9A%94%EC%B2%AD_%EB%B4%89%EC%82%AC%EC%9E%90.gif)		                        			
 
 [5. 요청글을 통한 봉사자의 수업 개설]
 
@@ -115,7 +117,7 @@
 
 학생은 수업 목록에서 원하는 수업을 골라 신청하거나, 수업 요청글을 통해 생성된 수업을 신청할 수 있습니다.
 
-![6_수업신청_개설알림후신청](/uploads/5d2da60a7223ca692156ef6236de2a33/6_수업신청_개설알림후신청.gif)
+![6_수업신청_개설알림후신청](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/5d2da60a7223ca692156ef6236de2a33/6_%EC%88%98%EC%97%85%EC%8B%A0%EC%B2%AD_%EA%B0%9C%EC%84%A4%EC%95%8C%EB%A6%BC%ED%9B%84%EC%8B%A0%EC%B2%AD.gif)
 
 [6. 학생이 요청한 수업이 개설되는 경우]
 
@@ -133,7 +135,7 @@
 
 ## 7. 수업 진행
 
-![7_수업진행_학생](/uploads/7b23791c2bd32fdd74787b475350f1df/7_수업진행_학생.gif)
+![7_수업진행_학생](https://user-images.githubusercontent.com/80896077/196723824-872404ba-fc6f-4e96-b624-0d6f1b0d09c9.gif)
 
 [7.1 학생의 수업 진행화면]
 
@@ -142,7 +144,7 @@
 수업의 참여자들은 서로 실시간 채팅을 할 수 있고, 참여중인 학생 목록을 확인할 수 있습니다.
 
 
-![7_수업진행_봉사자](/uploads/5e71a7c2ea0062586b3cec6484784029/7_수업진행_봉사자.gif)
+![7_수업진행_봉사자](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/5e71a7c2ea0062586b3cec6484784029/7_%EC%88%98%EC%97%85%EC%A7%84%ED%96%89_%EB%B4%89%EC%82%AC%EC%9E%90.gif)
 
 [7.2 봉사자의 수업 진행화면]                    
 
@@ -160,7 +162,7 @@
 
 ## 8. 피드백 작성
 
-![ezgif.com-gif-maker__21_](/uploads/cbe85e576fd6b0416f343581562bedfc/ezgif.com-gif-maker__21_.gif)
+![ezgif.com-gif-maker__21_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/cbe85e576fd6b0416f343581562bedfc/ezgif.com-gif-maker__21_.gif)
 
 [8. 봉사자의 피드백 작성]
 
@@ -175,7 +177,7 @@
 ## 9. 마이 페이지
 
 
-![ezgif.com-gif-maker__18_](/uploads/6f8455504119709e14f2cfee7d06f3c6/ezgif.com-gif-maker__18_.gif)
+![ezgif.com-gif-maker__18_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/6f8455504119709e14f2cfee7d06f3c6/ezgif.com-gif-maker__18_.gif)
 
 [9.1 학생 마이페이지]
 
@@ -185,7 +187,7 @@
 
 
 
-![ezgif.com-gif-maker__11_](/uploads/e1a772e97f54c07e6c88d379138b4213/ezgif.com-gif-maker__11_.gif)
+![ezgif.com-gif-maker__11_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/e1a772e97f54c07e6c88d379138b4213/ezgif.com-gif-maker__11_.gif)
 
 [9.2 봉사자 마이페이지]
 
@@ -194,7 +196,7 @@
 캘린더를 통해 수업 스케줄을 확인할 수 있고, 자기소개와 캐릭터를 수정할 수 있습니다.
 
 
-![ezgif.com-gif-maker__19_](/uploads/c8c6e1783648d567beaa5025b90f8016/ezgif.com-gif-maker__19_.gif)
+![ezgif.com-gif-maker__19_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/c8c6e1783648d567beaa5025b90f8016/ezgif.com-gif-maker__19_.gif)
 
 [9.3 학부모 마이페이지]
 
@@ -217,7 +219,7 @@
 
 학생과 봉사자는 익명으로 대화를 할 수 있습니다.
 
-![학생2d](/uploads/5a2c202995b653286450e0cceb77e4b6/ezgif.com-gif-maker__12_.gif)
+![학생2d](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/5a2c202995b653286450e0cceb77e4b6/ezgif.com-gif-maker__12_.gif)
 
 [10.1 학생의 대화 요청 후 대기]
 
@@ -226,7 +228,7 @@
 요청을 수락할 봉사자를 기다리는 동안 학생은 간단한 미니 게임을 하며 대기할 수 있습니다.
 
 
-![ezgif.com-gif-maker__20_](/uploads/5a2c716391490c16fa1ec8fb2a65434f/ezgif.com-gif-maker__20_.gif)
+![ezgif.com-gif-maker__20_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/5a2c716391490c16fa1ec8fb2a65434f/ezgif.com-gif-maker__20_.gif)
 
 [10.2 봉사자의 대화 요청 수락]
 
@@ -235,7 +237,7 @@
 학생이 대화를 요청하는 순간, 상담 가능한 봉사자들에게 알림이 뜨며 [수락/거절] 여부를 선택할 수 있습니다.
 
 
-![ezgif.com-gif-maker__17_](/uploads/dc2cb2569c21e2d3d13483484a806042/ezgif.com-gif-maker__17_.gif)
+![ezgif.com-gif-maker__17_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/dc2cb2569c21e2d3d13483484a806042/ezgif.com-gif-maker__17_.gif)
 
 [10.3 대화 진행]
 
@@ -249,7 +251,7 @@
 
 
 
-![ezgif.com-gif-maker__16_](/uploads/8fe146234b0b0cc812d70357b49c2013/ezgif.com-gif-maker__16_.gif)
+![ezgif.com-gif-maker__16_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12B201/uploads/8fe146234b0b0cc812d70357b49c2013/ezgif.com-gif-maker__16_.gif)
 
 [10. 4 학부모의 위험단어 감지 시 알림]
 
